@@ -1,4 +1,8 @@
-# 💫 Hi 👋, I'm Pravakar
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&duration=2800&color=56D3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pravakar+Das" alt="Typing SVG" />
+  </a>
+</h1>
 **A passionate Machine Learning Enthusiast || Computer Vision Developer || Full-Stack Developer**
 
 - 🔭 **I’m currently working on:** Machine learning and computer vision projects using Python, and building full-stack web apps with the MERN stack.
@@ -6,6 +10,10 @@
 - 👯 **I’m looking to collaborate on:** Open-source projects related to ML, computer vision, and web development.
 - 💬 **Ask me about:** Python, ML/CV applications, MERN stack, and student tech projects.
 - ⚡ **Fun fact:** I teach my models to see the world—literally!
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tusharchow20&label=Profile%20views&color=0e75b6&style=flat" alt="PravakarDas" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](VaskarPrada#1754) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pd.PravakarDa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oblivator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pravakardas459) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pravakardas4511) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pravakar459@gmail.com) 
